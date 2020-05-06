@@ -28,6 +28,7 @@
     <link rel="stylesheet" type="text/css" href="/css/my.css">
 
     <script src="/libs/jquery/jquery.min.js"></script>
+	<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
 
 <meta name="generator" content="Hexo 4.2.0"><link rel="alternate" href="/atom.xml" title="Fan's Blog" type="application/atom+xml">
 <link rel="stylesheet" href="/css/prism-tomorrow.css" type="text/css"></head>
@@ -312,29 +313,13 @@
         <div class="brand">
             <div class="title center-align">
                 
-                    subtitle
+                很帅~
                 
             </div>
 
             <div class="description center-align">
                 
-                <span id="subtitle"></span>
-                <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
-                <script>
-                    var typed = new Typed("#subtitle", {
-                        strings: ['志之所向，金石为开，谁能御之？',
-								  '花开不是为了花落，而是为了开的更加灿烂。',
-								  '没有伞的孩子必须努力奔跑！',
-								  '欲望以提升热忱，毅力以磨平高山。',
-								  '如果放弃太早，你永远都不知道自己会错过什么。',
-								  '没有礁石，就没有美丽的浪花；没有挫折，就没有壮丽的人生。'],			  
-                        startDelay: 300,
-                        typeSpeed: 100,
-                        loop: true,
-                        backSpeed: 50,
-                        showCursor: true
-                    });
-                </script>
+                    <span id="jinrishici-sentence">正在加载今日诗词....</span>
                 
             </div>
         </div>
@@ -344,7 +329,7 @@
 
 <script>
     // 每天切换 banner 图.  Switch banner image every day.
-    $('.bg-cover').css('background-image', 'url(/medias/banner/1.jpg)');
+    $('.bg-cover').css('background-image', 'url(/medias/banner/3.jpg)');
 </script>
 
 
@@ -588,5 +573,12 @@ $(function () {
     
 
 </body>
+
+<script type="text/javascript">
+			var OriginTitile=document.title,st;
+				document.addEventListener("visibilitychange",function(){
+				document.hidden?(document.title="ヽ(●-`Д´-)ノ你要玩捉迷藏嘛",clearTimeout(st)):(document.title="(Ő∀Ő3)ノ好哦！",st=setTimeout(function(){document.title=OriginTitile},3e3))
+				})
+</script>
 
 </html>

@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Fan&#39;s Blog</title>
   
-  
+  <subtitle>很帅~</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://fansgithub2019.github.io/"/>
-  <updated>2020-04-27T04:35:14.149Z</updated>
+  <updated>2020-05-06T12:12:52.759Z</updated>
   <id>https://fansgithub2019.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>用Typora写Hexo博客</title>
+    <link href="https://fansgithub2019.github.io/2020/05/06/yong-typora-xie-hexo-bo-ke/"/>
+    <id>https://fansgithub2019.github.io/2020/05/06/yong-typora-xie-hexo-bo-ke/</id>
+    <published>2020-05-06T11:40:37.000Z</published>
+    <updated>2020-05-06T12:12:52.759Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;D:%5Cpicture%5C%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200308111055.jpg&quot; alt=&quot;alt&quot;&gt;&lt;/p&gt;
+&lt;p&gt;这是一只特立独行的猪~&lt;/p&gt;
+&lt;iframe height=&quot;640&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
