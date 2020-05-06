@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://fansgithub2019.github.io/"/>
-  <updated>2020-05-06T12:31:52.456Z</updated>
+  <updated>2020-05-06T12:44:29.407Z</updated>
   <id>https://fansgithub2019.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>用Typora写Hexo博客</title>
-    <link href="https://fansgithub2019.github.io/2020/05/06/yong-typora-xie-hexo-bo-ke/"/>
-    <id>https://fansgithub2019.github.io/2020/05/06/yong-typora-xie-hexo-bo-ke/</id>
-    <published>2020-05-06T11:40:37.000Z</published>
-    <updated>2020-05-06T12:31:52.456Z</updated>
+    <title>hahah</title>
+    <link href="https://fansgithub2019.github.io/2020/05/06/hahah/"/>
+    <id>https://fansgithub2019.github.io/2020/05/06/hahah/</id>
+    <published>2020-05-06T12:41:42.000Z</published>
+    <updated>2020-05-06T12:44:29.407Z</updated>
     
     <summary type="html">
     
@@ -29,15 +29,17 @@
       
         
         
-          &lt;p&gt;&lt;img src=&quot;%E7%94%A8Typora%E5%86%99Hexo%E5%8D%9A%E5%AE%A2.assets/20200308111055.jpg&quot; alt=&quot;alt&quot;&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;img src=&quot;/2020/05/06/hahah/20200308111055.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;这是一只特立独行的猪~&lt;/p&gt;
-&lt;iframe
+&lt;iframe height=&quot;480&quot; width=&quot;640&quot;
         
       
     
     </summary>
     
     
+    
+      <category term="test" scheme="https://fansgithub2019.github.io/tags/test/"/>
     
   </entry>
   
